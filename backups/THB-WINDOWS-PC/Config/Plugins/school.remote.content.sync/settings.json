@@ -1,0 +1,17 @@
+{
+  "SyncManifestUrl": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/sync-plugins.json",
+  "SyncManifestMirrors": [
+    "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11@main/sync-plugins.json"
+  ],
+  "SyncIntervalMinutes": 0,
+  "AutoInstall": true,
+  "AllowedPluginIds": [],
+  "AutomationConfigName": "Default",
+  "HashMismatchAction": "Abort",
+  "LogRetentionDays": 14,
+  "GitHubToken": "dpapi:AQAAANCMnd8BFdERjHoAwE/Cl\u002BsBAAAA9roUPumyjkq1qpQSPDwtrQAAAAA8AAAAQwBsAGEAcwBzAEkAcwBsAGEAbgBkAC4AUgBlAG0AbwB0AGUAQwBvAG4AdABlAG4AdABTAHkAbgBjAAAAEGYAAAABAAAgAAAAgIKZa0wvsa7OxzUTjxsEm4BAkURkpQ\u002BisFFKwgQMreEAAAAADoAAAAACAAAgAAAA3mkejvwakLxn9yVhfsLjMDltg3Gc/fSAnRqSantvd0gwAAAAtQ7xSYEybcqj\u002BPcAM0JAFwFLztiXmk/pO9m07pMkFgsPjUtzTuYMR8zGM8Glu1s3QAAAAC/TYMp/\u002BX9EFSJTVXTqxVC\u002BE6bfur4ZPpGSQ6djH1E92BGc5W6\u002BJOOud7YoNo0Lz0F10habki7o\u002BXg\u002BK5IZAdQ=",
+  "GitHubRepo": "wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11",
+  "GitHubBranch": "main",
+  "GitHubUploadPath": "backups/{Machine}",
+  "GitHubApiBase": "https://api.github.com"
+}
