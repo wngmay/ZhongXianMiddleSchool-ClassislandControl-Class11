@@ -31,8 +31,8 @@ PLUGINS_DIR = REPO / "plugins"
 MANIFEST = REPO / "sync-plugins.json"
 
 # 主源与镜像：raw.githubusercontent.com 在国内可能不通，jsDelivr 作为兜底
-PRIMARY = "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main"
-MIRROR = "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl@main"
+PRIMARY = "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main"
+MIRROR = "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11@main"
 
 
 def read_yaml_field(text: str, field: str):

@@ -3,19 +3,19 @@
     "CoreVersion": "2.0.0.0",
     "OrganizationName": "重庆市忠县中学 初2029级11班",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/classplans.json",
-        "Version": 1
+        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/classplans.json",
+        "Version": 2
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/timelayouts.json",
-        "Version": 1
+        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/timelayouts.json",
+        "Version": 2
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/subjects.json",
-        "Version": 1
+        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/subjects.json",
+        "Version": 2
     },
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/policy.json",
+        "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/policy.json",
         "Version": 1
     }
 }

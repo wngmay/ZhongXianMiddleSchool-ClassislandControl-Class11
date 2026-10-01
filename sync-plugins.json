@@ -1,49 +1,49 @@
 {
-  "Version": 1,
+  "Version": 2,
   "Plugins": [
     {
       "Id": "action.inquiryWindow",
       "Version": "1.0.0.0",
-      "Url": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/plugins/action.inquiryWindow-1.0.0.0.cipx",
+      "Url": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/plugins/action.inquiryWindow-1.0.0.0.cipx",
       "Hash": "sha256:4e240f97d9b4854b8fefa752281eb530745b6705dfebe44c6913623d9c07e8ce",
       "Mirrors": [
-        "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl@main/plugins/action.inquiryWindow-1.0.0.0.cipx"
+        "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11@main/plugins/action.inquiryWindow-1.0.0.0.cipx"
       ]
     },
     {
       "Id": "lrs2187.duty",
       "Version": "0.2.3.1",
-      "Url": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/plugins/lrs2187.duty-0.2.3.1.cipx",
+      "Url": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/plugins/lrs2187.duty-0.2.3.1.cipx",
       "Hash": "sha256:62372ecf3de27ad07ccebb5b718cb7777a03ff8273fafc581fb722fdd9ad0ff4",
       "Mirrors": [
-        "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl@main/plugins/lrs2187.duty-0.2.3.1.cipx"
+        "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11@main/plugins/lrs2187.duty-0.2.3.1.cipx"
       ]
     },
     {
       "Id": "school.remote.content.sync",
       "Version": "1.0.0.0",
-      "Url": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/plugins/school.remote.content.sync-1.0.0.0.cipx",
+      "Url": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/plugins/school.remote.content.sync-1.0.0.0.cipx",
       "Hash": "sha256:8ebdb5f23ef913cd53540880b4235422e035417e8d28755cfb026077dba753fe",
       "Mirrors": [
-        "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl@main/plugins/school.remote.content.sync-1.0.0.0.cipx"
+        "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11@main/plugins/school.remote.content.sync-1.0.0.0.cipx"
       ]
     },
     {
       "Id": "uachope.classisland",
       "Version": "1.0.0.0",
-      "Url": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/plugins/uachope.classisland-1.0.0.0.cipx",
+      "Url": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/plugins/uachope.classisland-1.0.0.0.cipx",
       "Hash": "sha256:a5b22489c1fa0608f4bf4a771c6dc87ec81c44ca0f4e35fa63638a54f02ef2f6",
       "Mirrors": [
-        "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl@main/plugins/uachope.classisland-1.0.0.0.cipx"
+        "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11@main/plugins/uachope.classisland-1.0.0.0.cipx"
       ]
     }
   ],
   "Automation": {
-    "Version": 1,
-    "Url": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl/main/automation/rules.json",
-    "Hash": "sha256:b48290e0ca4efb8302107ef3e30d004ab9edbda86501b7a468cf256338d1553c",
+    "Version": 2,
+    "Url": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/automation/rules.json",
+    "Hash": "sha256:c01cd79de1e384ce4edf057ef4110f609f917160c8e4438a57279358c9134b78",
     "Mirrors": [
-      "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl@main/automation/rules.json"
+      "https://gcore.jsdelivr.net/gh/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11@main/automation/rules.json"
     ]
   }
 }
