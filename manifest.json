@@ -4,11 +4,11 @@
     "OrganizationName": "重庆市忠县中学 初2029级11班",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/classplans.json",
-        "Version": 2
+        "Version": 3
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/timelayouts.json",
-        "Version": 2
+        "Version": 3
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/wngmay/ZhongXianMiddleSchool-ClassislandControl-Class11/main/subjects.json",

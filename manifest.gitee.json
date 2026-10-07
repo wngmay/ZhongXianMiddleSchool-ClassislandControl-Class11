@@ -1,0 +1,21 @@
+{
+    "ServerKind": 0,
+    "CoreVersion": "2.0.0.0",
+    "OrganizationName": "重庆市忠县中学 初2029级11班",
+    "ClassPlanSource": {
+        "Value": "https://gitee.com/wngmay_gitee/ZhongXianMiddleSchool-ClassislandControl-Class11/raw/main/classplans.json",
+        "Version": 3
+    },
+    "TimeLayoutSource": {
+        "Value": "https://gitee.com/wngmay_gitee/ZhongXianMiddleSchool-ClassislandControl-Class11/raw/main/timelayouts.json",
+        "Version": 3
+    },
+    "SubjectsSource": {
+        "Value": "https://gitee.com/wngmay_gitee/ZhongXianMiddleSchool-ClassislandControl-Class11/raw/main/subjects.json",
+        "Version": 2
+    },
+    "PolicySource": {
+        "Value": "https://gitee.com/wngmay_gitee/ZhongXianMiddleSchool-ClassislandControl-Class11/raw/main/policy.json",
+        "Version": 1
+    }
+}
